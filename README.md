@@ -9,7 +9,7 @@
 I am a full-stack developer with a passion for writing software development articles. I firmly believe that learning is a continuous journey. I regularly publish articles on Medium.com, where I have over 500 readers each month.
 
    <p align="left">
-      <a href="https://www.linkedin.com/in/ayushsharmasde/">
+      <a href="https://www.linkedin.com/in/ujjwal-sharma-763534223">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://medium.com/@ayushjudesharp">
          <img alt="" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
