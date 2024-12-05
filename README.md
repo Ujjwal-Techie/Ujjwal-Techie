@@ -24,7 +24,7 @@ A Novel Approach for Earthquake Prediction Using Random Forest and Neural Networ
 
 https://www.researchgate.net/publication/375515695_A_Novel_Approach_for_Earthquake_Prediction_Using_Random_Forest_and_Neural_Networks
 
-<img  alt="Research Gate" width="80" height="80" style="padding-right:10px;" src="" />
+<img  alt="Research Gate" width="80" height="80" style="padding-right:10px;" src="https://startuptalky.com/researchgate-success-story/" />
 
 
 <br />
