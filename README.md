@@ -6,7 +6,7 @@
 ---
 
 
-I am a full-stack developer with a passion for writing software development articles. I firmly believe that learning is a continuous journey. I regularly publish articles on Medium.com, where I have over 500 readers each month.
+I am a Cloud/DevOps engineer enthusiastic person with a passion for cloud technologies and tools. I firmly believe that learning is a continuous journey want to become Cloud/DevOps engineer with an ultimate goal of becoming a cloud architect.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/ujjwal-sharma-763534223">
