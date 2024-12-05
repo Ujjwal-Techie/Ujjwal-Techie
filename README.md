@@ -44,10 +44,10 @@ https://www.researchgate.net/publication/375515695_A_Novel_Approach_for_Earthqua
 <img align="left" alt="HTML" width="80" height="80" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="80" height="80" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="80" height="80" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="80" height="80" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NodeJS" width="80" height="80" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vagrant/vagrant-original.svg" />
 <img align="left" alt="Python" width="80" height="80" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Jenkins" width="80" height="80" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="GitHub" width="80" height="80" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />          
+<img align="left" alt="GitHub" width="75" height="80" style="padding-right:20px;" src="https://github.com/Ujjwal-Techie/Logo-Image/blob/main/Screenshot%202024-12-05%20223611.png?raw=true" />          
 <br />
 
 
