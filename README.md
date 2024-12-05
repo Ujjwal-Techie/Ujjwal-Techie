@@ -20,9 +20,9 @@ I am a full-stack developer with a passion for writing software development arti
 ---
 ### 🏛️ Research Publication:
 
-A Deep Learning Model and Web Application for American Sign Language Recognition
+A Novel Approach for Earthquake Prediction Using Random Forest and Neural Networks
 
-https://dl.acm.org/doi/10.1145/3695719.3695723
+https://www.researchgate.net/publication/375515695_A_Novel_Approach_for_Earthquake_Prediction_Using_Random_Forest_and_Neural_Networks
 
 <img  alt="ACM" width="80" height="80" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Association_for_Computing_Machinery_%28ACM%29_logo.svg" />
 
