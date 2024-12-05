@@ -11,7 +11,7 @@ I am a full-stack developer with a passion for writing software development arti
    <p align="left">
       <a href="https://www.linkedin.com/in/ujjwal-sharma-763534223">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="https://medium.com/@ayushjudesharp">
+      <a href="">
          <img alt="" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
       <a href="https://www.credly.com/users/ayush-sharma-sde">
          <img label="Badges" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a> 
