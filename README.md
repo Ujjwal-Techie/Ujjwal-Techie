@@ -1,7 +1,7 @@
 # 🔥 UJJWAL SHARMA 🔥
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1998&color=15F7ED&vCenter=true&multiline=true&random=false&width=833&height=170&lines=Software+Developer;Master's+of+Science%2C+Computer+Science;Clifornia+State+University%2C+East+Bay+Alumnus;San+Francisco%2C+Bay+Area)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1998&color=15F7ED&vCenter=true&multiline=true&random=false&width=833&height=170&lines=Cloud/DevOps+Engineer+Enthusisastic;Master's+of+Computer+Application%2C+Computer+Science;Galgotias+University%2C+Greater+Noida;Uttar+Pradesh%2C+India)](https://git.io/typing-svg)
 
 ---
 
