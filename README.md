@@ -56,14 +56,5 @@ https://dl.acm.org/doi/10.1145/3695719.3695723
 
 
 
-### 📺 Latest Medium Articles
-
-
-[![My Medium story](https://medium-story.vercel.app/api?username=@ayushjudesharp&index=0)](https://medium.com/@ayushjudesharp/building-fan-out-serverless-architectures-using-sns-sqs-and-lambda-event-driven-architecture-911a7b4eadfb)
-[![My Medium story](https://medium-story.vercel.app/api?username=@ayushjudesharp&index=2)](https://medium.com/@ayushjudesharp/ai-blog-full-stack-application-leveraging-serverless-architecture-95ed11c317e7)
-[![My Medium story](https://medium-story.vercel.app/api?username=@ayushjudesharp&index=1)](https://medium.com/@ayushjudesharp/american-sign-language-asl-recognition-system-using-deep-learning-e0b937a9378f)
-[![My Medium story](https://medium-story.vercel.app/api?username=@ayushjudesharp&index=3)](https://medium.com/@ayushjudesharp/building-a-serverless-rest-api-with-aws-lambda-node-js-and-dynamodb-dd87d3ac90a2)
-
-
 [website]: (https://ayushshawnfrost.github.io/Ayush.Sharma.Portfolio/)
-[LinkedIn]: (https://www.linkedin.com/in/ayushsharmasde/)
+[LinkedIn]: (https://www.linkedin.com/in/ujjwal-sharma-763534223)
