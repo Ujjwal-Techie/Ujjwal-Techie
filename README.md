@@ -11,8 +11,8 @@ I am a Cloud/DevOps engineer enthusiastic person with a passion for cloud techno
    <p align="left">
       <a href="https://www.linkedin.com/in/ujjwal-sharma-763534223">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="">
-         <img alt="" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
+<!--       <a href="">
+         <img alt="" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>  -->
       <a href="https://www.credly.com/users/ujjwal-sharma.3d063e7e">
          <img label="Badges" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a> 
    </p>
